@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orchidacearumgen02kr/orchidacearumgen02kr_0097.png"; bbox 0 0 2263 3617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 383 1428 487">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 471 383 1428 487">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 383 1428 487; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 471 383 1428 487; x_wconf 81' lang='lat' dir='ltr'>ORCHIDACEARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 235 643 1670 777">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 235 638 1670 777">
+     <span class='ocr_line' id='line_1_2' title="bbox 235 643 1670 777; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 235 643 782 777; x_wconf 74' lang='lat' dir='ltr'><strong>GENERA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 872 696 1022 776; x_wconf 81' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1100 695 1670 776; x_wconf 77' lang='lat' dir='ltr'>SPECIES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 831 1072 1075 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 831 1072 1075 1108">
+     <span class='ocr_line' id='line_1_3' title="bbox 831 1072 1075 1108; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 831 1073 894 1107; x_wconf 84' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_6' title='bbox 899 1072 1075 1108; x_wconf 84' lang='lat' dir='ltr'>PPPPPP</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 822 2337 1334 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 822 2337 1334 2342">
+     <span class='ocr_line' id='line_1_4' title="bbox 822 2337 1334 2342; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 822 2337 1334 2342; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 848 2777 1044 2812">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 848 2777 1044 2812">
+     <span class='ocr_line' id='line_1_5' title="bbox 848 2777 1044 2812; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 848 2777 909 2812; x_wconf 83' lang='lat' dir='ltr'>BE</span> <span class='ocrx_word' id='word_1_9' title='bbox 916 2777 1044 2812; x_wconf 80' lang='lat' dir='ltr'>RLIN.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
